@@ -4,25 +4,26 @@ Recruitment is about connecting the dots between business and applicant with the
 
 
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: My Resume
+twitter_username: @nammoooo
+name: Namrata Singh
 
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
    url: http://automateddeveloper.blogspot.com/
- - title: GitHub
-   url: https://github.com/robhinds
+ - title: [GitHub]
+   url: (https://github.com/nammoooo)
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
+ - X-Ray Search
+ - Diversity Hiring
+ - Talent Strategy
+ - 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
