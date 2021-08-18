@@ -6,7 +6,7 @@ Recruitment is about connecting the dots between business and applicant with the
  - Diversity Hiring
  - Talent Strategy
 
-|  *Technologies | *ATS* | *Role |
+|  *Technologies* | *ATS* | *Role* |
 | :---:        |     :---:      |         :---: |
 |BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT |  Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc|
 
