@@ -1,70 +1,36 @@
-# Hello-World
-
+## Summary
 Recruitment is about connecting the dots between business and applicant with the help of various tools and techniques which are required to understand business logic, hiring manager pesona and applicants psychology of job search or interest.
-# Skill
+## Skill
+ - X-Ray Search 
+    * User generated content, static websites
+ - Diversity Hiring
+ - Talent Strategy
 
-Sourcing Tools | 
------------- | 
-Job Boards, Social Networking Platform, Referrals, X Raying, Image Search, GitHub, Stack overflow, Scribd, Twitter, Custom Search, Groups, Emojis etc
-Role | Content from cell 2
-Social Networking Platform|
-Github,twitter, facebook, Stackoverflow,
+|  *Technologies | *ATS* | *Role |
+| :---:        |     :---:      |         :---: |
+|BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT |  Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc|
 
-Content in the first column | Content in the second column
- 
-Leadership, Engineering, Diversity, Corporate, Niche, Social media, hiring
- Technologies
-BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT
-Sourcing Tools
 
- SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc
 
-# Education and Certifications 👩‍🎓 
-- **Masters in Industrial and Organizational Psychology**
+> Job Boards, Social Networking Platform,Referrals, X Raying, Image Search, Scribd, Twitter, Custom Search, Groups, Emojis 
+etc |
 
-- _**Balck Belt in Internet Recruitment - Social Talent**_
-
-- _**Tech Recruitment Certified Professionals - DevSkiller**_
-
-- _**Senior Certified Professionals - Society for Human Resource Management**_
-
-- _**Global Professional Human Resource - HRCI**_
-
-- _**Enterprise Design Thinking Practitioner - IBM**_
-#  Affliations
-- _**Society for Human Resource Professionals (SHRM)**_
-- _**HR Certification institute inc. USA**_
-# Volunteering
+## Education and Certifications 👩‍🎓 
+- _**Masters in Industrial and Organizational Psychology**_ <br/> 
+- _**Balck Belt in Internet Recruitment - Social Talent**_ <br/>
+- _**Tech Recruitment Certified Professionals - DevSkiller**_ <br/>
+- _**Senior Certified Professionals - Society for Human Resource Management**_ <br/>
+- _**Global Professional Human Resource - HRCI**_ <br/>
+- _**Enterprise Design Thinking Practitioner - IBM**_ <br/>
+##  Affliations
+- _**Society for Human Resource Professionals (SHRM)**_ <br/>
+- _**HR Certification institute inc. USA**_ <br/>
+## Volunteering
 - _**[Supportsturdays](https://supportsaturdays.com/) - A Professional movement led by professionals for professionals with the sole purpose of connecting Talent with Opportunities**_
 
-
-
-# Site settings
-title: My Resume
 twitter_username: @nammoooo
 name: *Namrata Singh*
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
- 
- *This text will be italic*
-_This will also be italic_
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
- 
- * Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
- 
- 1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
  
  ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
@@ -89,12 +55,7 @@ primarylinks:
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
 
-#Any buzzword skills you want to include
-skills:
- - X-Ray Search
- - Diversity Hiring
- - Talent Strategy
- - 
+
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
