@@ -1,6 +1,6 @@
-<img width="1279" alt="Screenshot 2021-08-31 at 5 54 41 PM" src="https://user-images.githubusercontent.com/88934779/131502056-2b026419-3291-4d6e-9386-dd10ecdb8afc.png">
+<img src="https://user-images.githubusercontent.com/88934779/131502056-2b026419-3291-4d6e-9386-dd10ecdb8afc.png">
 <h2>Summary</h2>
-<strong><em>Recruitment is about connecting the dots between business and applicant with the help of various tools and techniques</em></strong> which required to understand business logic, hiring manager pesona and applicants psychology of job search or interest.</br>
+<strong><em>Recruitment is about connecting the dots between business and talent with the help of various tools and techniques</em></strong> which required to understand business logic, hiring manager pesona and applicants psychology of job search or interest.</br>
  
  <h2>Skill</h2>
  
