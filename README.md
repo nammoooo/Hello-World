@@ -26,10 +26,3 @@
 ## Volunteer
 - _**[Supportsturdays](https://supportsaturdays.com/) - A Professional movement led by professionals for professionals with the sole purpose of connecting Talent with Opportunities**_
 
- 
- ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
-
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>).
