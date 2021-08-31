@@ -1,5 +1,5 @@
 ## Summary
-<strong><em>Recruitment is about connecting the dots between business and applicant with the help of various tools and techniques</em></strong> which are required to understand business logic, hiring manager pesona and applicants psychology of job search or interest.
+<strong><em>Recruitment is about connecting the dots between business and applicant with the help of various tools and techniques</em></strong> which required to understand business logic, hiring manager pesona and applicants psychology of job search or interest.
 ## Skill
  - <em>X-Ray Search</em> 
     * User generated content, static websites
