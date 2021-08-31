@@ -1,4 +1,8 @@
-## Summary
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+ <br><br>
+  <h2>Summary</h2>
 <strong><em>Recruitment is about connecting the dots between business and applicant with the help of various tools and techniques</em></strong> which required to understand business logic, hiring manager pesona and applicants psychology of job search or interest.
 ## Skill
  - <em>X-Ray Search</em> 
