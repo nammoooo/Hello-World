@@ -10,7 +10,7 @@
 
 |  *Technologies* | *ATS* | *Role* | *Sourcing Tools* |
 | :---:        |     :---:      |         :---:    |   :--:    |
-|BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT |  Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc| Job Boards, Social Networking Platform,Referrals, X Raying, Image Search, Scribd, Twitter, Custom Search, Groups, Emojis etc |
+|BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT |  Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc| Job Boards, Social Networking Platform,Referrals, X Raying, Image Search, Scribd, Twitter, Custom Search, Groups, Emojis |
 
 
 ## Education and Certifications 👩‍🎓 
