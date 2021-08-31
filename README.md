@@ -6,7 +6,7 @@
  - <em>Diversity Hiring</em>
     * Designed & Implemented
  - <em>Talent Strategy</em>
-    * Individual, Team, Organization 
+    * Individual, Team, Organization level
 
 |  *Technologies* | *ATS* | *Role* | *Sourcing Tools* |
 | :---:        |     :---:      |         :---:    |   :--:    |
