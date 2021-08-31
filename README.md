@@ -18,8 +18,8 @@
 - _**Master's in Arts Industrial and Organizational Psychology**_ - [Vinoba Bhave University](https://www.vbu.ac.in/login)<br/> 
 - _**Balck Belt in Internet Recruitment**_ - [Social Talent](https://personal.socialtalent.com/collections/frontpage/products/talent-sourcing-specialist)<br/>
 - _**Tech Recruitment Certified Professionals - DevSkiller**_ <br/>
-- _**Senior Certified Professionals - Society for Human Resource Management**_ <br/>
-- _**Global Professional Human Resource - HRCI**_ <br/>
+- _**Senior Certified Professionals**_ - <a target='_blank' href="https://www.shrm.org/">Society for Human Resource Management</a> <br/>
+- _**Global Professional Human Resource**_  - <a target='_blank' href="https://www.hrci.org/"> HRCI</a> <br/>
 - _**Enterprise Design Thinking Practitioner - IBM**_ <br/>
 ##  Affliations
 - _**Society for Human Resource Professionals (SHRM)**_ <br/>
