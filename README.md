@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/88934779/131502056-2b026419-3291-4d6e-9386-dd10ecdb8afc.png">
 <h2>Summary</h2>
-<strong><em> Sourcing & Recruitment is about pattern recognition, connecting the dots between business and talent with the help of various tools and techniques</em></strong> which are required to understand business logic, hiring managers pesona, applicants psychology of job search and interests while keeping in mind time, quality and budget
+Have over decade exposure in technical hiring <strong><em> Sourcing & Recruitment is about pattern recognition, connecting the dots between business and talent with the help of various tools and techniques</em></strong> which are required to understand business logic, hiring managers pesona, applicants psychology of job search and interests while keeping in mind time, quality and budget
 .</br>
  
  <h2>Sourcing Tools & Position closed</h2> 
@@ -16,14 +16,13 @@
  - <em>Talent Strategy</em>
     * Individual, Team, Organization level 
 
-|  *Technologies* | *ATS* | *Role* | *Sourcing Techniques* |
+|  *Technologies* | *ATS* | *Hiring Exposure* | *Sourcing Techniques* |
 | :---:        |     :---:      |         :---:    |   :--:    |
-|BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT | Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc| X Ray, Data Scrapping, Image Search, Custom Search, Groups, Emojis|
+|BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT | Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |Leadership, Diversity, Engineering, StartUps, Contigent etc| X Ray, Data Scrapping, Image Search, Custom Search, Groups, Emojis|
 
 <h2>Talent Acquisition Process</h2>
 
 ![Talent Acquisiton   Recruitment Process](https://user-images.githubusercontent.com/88934779/132305658-536653af-5529-40c2-a6a0-3c0b70090bb5.png)
-
 
 
 ## Education and Certifications 👩‍🎓 
@@ -39,7 +38,7 @@
 - _**Society for Human Resource Professionals (SHRM)**_ <br/>
 - _**HR Certification institute inc. USA**_ <br/>
 
-<h2>Volunteer</h2>
+<h2>Volunteering</h2>
 
 - _**[Supportsturdays](https://supportsaturdays.com/) - A Professional movement led by professionals for professionals with the sole purpose of connecting Talent with Opportunities**_
 
