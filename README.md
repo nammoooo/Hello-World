@@ -3,8 +3,12 @@
 <strong><em> Sourcing & Recruitment is about pattern recognition, connecting the dots between business and talent with the help of various tools and techniques</em></strong> which are required to understand business logic, hiring managers pesona, applicants psychology of job search and interests while keeping in mind time, quality and budget
 .</br>
  
- <h2>Skill</h2> 
+ <h2>Sourcing Tools & Position closed</h2> 
  
+<img width="360" alt="Screenshot 2021-09-07 at 3 34 09 PM" src="https://user-images.githubusercontent.com/88934779/132326517-08cf40ca-2761-42c1-bb59-d40999145366.png"> <img width="297" alt="Screenshot 2021-09-07 at 2 03 55 PM" src="https://user-images.githubusercontent.com/88934779/132312565-001a1ba8-bdc6-4eb4-9e6d-fc7a9b526088.png"> 
+ 
+  <h2>Skill</h2> 
+  
  - <em>X-Ray Search</em> 
     * User generated content, static websites 
  - <em>Diversity Hiring</em>
@@ -12,17 +16,14 @@
  - <em>Talent Strategy</em>
     * Individual, Team, Organization level 
 
-|  *Technologies* | *ATS* | *Role* | *Sourcing Tools* |
+|  *Technologies* | *ATS* | *Role* | *Sourcing Techniques* |
 | :---:        |     :---:      |         :---:    |   :--:    |
-|BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT |  Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc| Job Boards, Social Networking Platform,Referrals, X Raying, Image Search, Scribd, Twitter, Custom Search, Groups, Emojis
-<img width="335" alt="Screenshot 2021-09-07 at 1 31 17 PM" src="https://user-images.githubusercontent.com/88934779/132307855-2065f5fe-5b5b-4adc-9943-339bf5cf7865.png"> |
+|BackEnds, FrontEnds, DevOps, Cloud – AWS, Kubernetes, AI/ML, Scala, Mobile – iOS/Android, OTT | Taleo, iCIMS, Paycor, ADP Payroll, Kanexa |SDE I, II, III, SDET, Developer, PM, Engineering Head, Director, QA, Architect, Designer etc| X Ray, Data Scrapping, Image Search, Custom Search, Groups, Emojis|
 
-## Talent Acquisition Process ## 
+<h2>Talent Acquisition Process</h2>
 
 ![Talent Acquisiton   Recruitment Process](https://user-images.githubusercontent.com/88934779/132305658-536653af-5529-40c2-a6a0-3c0b70090bb5.png)
 
-
-<img width="400" alt="Screenshot 2021-09-07 at 1 32 48 PM" src="https://user-images.githubusercontent.com/88934779/132307861-c2d6e5ef-e20b-471c-8b35-5b6b7ecf0909.png"> 
 
 
 ## Education and Certifications 👩‍🎓 
