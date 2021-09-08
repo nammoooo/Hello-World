@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/88934779/131502056-2b026419-3291-4d6e-9386-dd10ecdb8afc.png">
 <h2>Summary</h2>
-<p>Have decade over experience in technical hiring & building talent strategy at Individual, Team and Organization level. <strong><em> Sourcing & Recruitment is about pattern recognition, connecting the dots between business and talent with the help of various tools and techniques</em></strong> which are required to understand business logic, hiring managers pesona, applicants psychology of job search and interests while keeping in mind time, quality and budget.</p> </br>
+<p>Have over the decade experience in technical hiring & building talent strategy at Individual, Team and Organization level. <strong><em> Sourcing & Recruitment is about pattern recognition, connecting the dots between business and talent with the help of various tools and techniques</em></strong> which are required to understand business logic, hiring managers pesona, applicants psychology of job search and interests while keeping in mind time, quality and budget.</p> </br>
 
  
  <h2>Sourcing Tools & Position closed</h2> 
