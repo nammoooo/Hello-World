@@ -42,4 +42,5 @@
  - <em>Soucring Hackathon</em>
  - <em>Exploring new tools & techniques</em> (follow - <em><strong>Dean Da Costa, Irina Shamaeva, Shally Steckerl, Johny Campbell, Jim Stroud, etc</strong> </em>)
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/nammoooo/My-Portfolio?color=Red&logo=Github">
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/nammoooo/My-Portfolio?color=Red&logo=Github"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nammoooo/My-Portfolio?color=red&logo=github">
