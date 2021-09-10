@@ -39,7 +39,7 @@
 <h2>Interests</h2> 
  
  - <em>Blogs</em>
- - <em>Soucring Hackathon</em>
+ - <em>Sourcing Hackathon</em>
  - <em>Exploring new tools & techniques</em> (follow - <em><strong>Dean Da Costa, Irina Shamaeva, Shally Steckerl, Johny Campbell, Jim Stroud, etc</strong> </em>)
 
 
