@@ -1,20 +1,6 @@
 <img src="https://user-images.githubusercontent.com/88934779/131502056-2b026419-3291-4d6e-9386-dd10ecdb8afc.png">
 <h2>Summary</h2>
 <p>Have over the decade experience in technical hiring & building talent strategy at Individual, Team and Organization level. <strong><em> Sourcing & Recruitment is about pattern recognition, connecting the dots between business and talent with the help of various tools and techniques</em></strong> which are required to understand business logic, hiring managers pesona, applicants psychology of job search and interests while keeping in mind time, quality and budget.</p> </br>
-<h2>Social links</h2> </br>
-<a href="https://twitter.com/nammmooo">
-  <img align="left" alt="Namrata's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/namrata-singh-gphr-hrci-shrm-scp/">
-  <img align="left" alt="Namrata's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/nammoooo">
-  <img align="left" alt="Namrata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/">
-  <img align="left" alt="Namrata's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-</br>
 
  
  <h2>Sourcing Tools & Position closed</h2> 
